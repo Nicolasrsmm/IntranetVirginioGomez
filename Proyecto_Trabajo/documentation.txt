@@ -1,0 +1,80 @@
+index.js
+========
+
+Archivo principal de la aplicación que:
+
+Implementa el sistema de inicio de sesión conectando con "iniciosesion.php" para:
+- Autenticación de usuarios (admin/docente/alumno)
+- Validación de credenciales mediante POST request
+- Almacenamiento seguro de tokens en AsyncStorage
+- Redirección según rol de usuario
+- Manejo de sesiones persistentes
+
+Conecta con los componentes de navegación:
+- Administradores: Panel de control administrativo
+- Docentes: Interfaz para gestión docente
+- Alumnos: Portal estudiantil
+- SolicitarCuenta: Formulario de registro
+
+Características principales:
+- Interfaz multiplataforma (web/móvil)
+- Diseño responsivo y adaptativo
+- Manejo de errores y mensajes
+- Navegación dinámica según permisos
+- URLs: Web (localhost) y Móvil (192.168.2.102)
+- Gestión de sesiones con AsyncStorage
+- Validación de tokens y permisos
+- Redirección automática según rol 
+
+administradores.js
+===============
+
+Archivo principal del panel de administración que:
+
+Conexiones con el Backend:
+- "cerrar.php": 
+  * Cierre de sesión administrativa
+  * Eliminación de tokens de AsyncStorage
+  * Redirección al login
+
+- "noticias.php": 
+  * Obtención de noticias y eventos
+  * Listado paginado de publicaciones
+  * Filtrado por tipo de contenido
+
+- "DatosAdmin.php": 
+  * Obtención de datos personales del administrador
+  * Validación de sesión activa
+  * Actualización de información de perfil
+
+- "publicar.php": 
+  * Creación de noticias y eventos
+  * Validación de datos de publicación
+  * Almacenamiento de contenido multimedia
+
+- "save_image.php": 
+  * Almacenamiento de imágenes de noticias/eventos
+  * Optimización de imágenes
+  * Gestión de rutas de archivos
+
+Funcionalidades principales:
+- Panel de control con menú lateral colapsable
+- Gestión de noticias y eventos
+- Visualización de datos personales
+- Sistema de publicación con:
+  - Soporte para imágenes
+  - Selector de fechas para eventos
+  - Validación de fechas y campos
+- Interfaz adaptativa (web/móvil)
+- Sistema de notificaciones
+- Gestión de sesiones y tokens
+- URLs: Web (localhost) y Móvil (192.168.2.102)
+
+Características de la interfaz:
+- Diseño responsivo con breakpoints
+- Menú lateral colapsable en web
+- Menú hamburguesa en móvil
+- Sistema de navegación por pestañas
+- Gestión de estados y formularios
+- Manejo de errores y mensajes
+- Paginación de contenido 
