@@ -225,16 +225,16 @@ El sistema detecta automáticamente la plataforma:
 **Nota:** Los usuarios de prueba deben estar creados en la base de datos con sus respectivas contraseñas hasheadas con SHA-512.
 
 ###  👑 **Administrador**
-    1. Usuario: [configurar según BD]
-    2. Contraseña: [configurar según BD]
+    1. Usuario: [admin]
+    2. Contraseña: [admin123]
 
 ### 🧑‍🏫 **Docente**
-    1. Usuario: [configurar según BD]
-    2. Contraseña: [configurar según BD]
+    1. Usuario: [docente]
+    2. Contraseña: [docente123]
 
 ### 👨‍🎓 **Alumno**
-    1. Usuario: [configurar según BD]
-    2. Contraseña: [configurar según BD]
+    1. Usuario: [alumno]
+    2. Contraseña: [alumno123]
 
 **Importante:** Las contraseñas en la base de datos deben estar almacenadas con hash SHA-512 para que el sistema funcione correctamente.
 
