@@ -8,11 +8,11 @@ Está diseñada para instituciones educativas que necesitan una gestión central
 ## 🟢 **Para visualizar el video del software este debe ser descargado ya que github no tiene repoductor de video**
 
 
-**Paso1:** Seleccionar el direcotiro dodne se encuentran los videos.
+**Paso1:** Seleccionar el directorio donde se encuentran los videos.
 
 <img width="1918" height="685" alt="nuevo1" src="https://github.com/user-attachments/assets/e203805b-7bf0-4cb4-832b-2524fae6b978" />
 
-**Paso2:** Seleccionar un video que se encuentre dentro del direcciorito.
+**Paso2:** Seleccionar un video que se encuentre dentro del directorio.
 
 <img width="1898" height="645" alt="nuevo2" src="https://github.com/user-attachments/assets/3e807ec7-d003-4f21-bc2a-41bd14aa245d" />
 
