@@ -3,7 +3,6 @@
 ¡Bienvenido al Sistema de Intranet Educativa! 🚀
 Esta plataforma multiplataforma (web y móvil) permite gestionar noticias, eventos y perfiles de usuarios en una institución educativa, integrando control de acceso por roles, publicación de contenido y visualización de información académica 📚.
 Está diseñada para instituciones educativas que necesitan una gestión centralizada de su comunidad académica 🔥
-``
 ---
 
 ## 🟢 **Para visualizar el video del software este debe ser descargado ya que github no tiene repoductor de video**
