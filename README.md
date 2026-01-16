@@ -6,6 +6,25 @@ Está diseñada para instituciones educativas que necesitan una gestión central
 ``
 ---
 
+## 🟢 **Para visualizar el video del software este debe ser descargado ya que github no tiene repoductor de video**
+
+
+**Paso1:** Seleccionar el direcotiro dodne se encuentran los videos.
+
+<img width="1918" height="685" alt="nuevo1" src="https://github.com/user-attachments/assets/e203805b-7bf0-4cb4-832b-2524fae6b978" />
+
+**Paso2:** Seleccionar un video que se encuentre dentro del direcciorito.
+
+<img width="1898" height="645" alt="nuevo2" src="https://github.com/user-attachments/assets/3e807ec7-d003-4f21-bc2a-41bd14aa245d" />
+
+**Paso3:** Descaragr el video seleccionado.
+
+<img width="1916" height="616" alt="nuevo" src="https://github.com/user-attachments/assets/e113acb9-b5c1-4f60-a611-6c44dd9d534a" />
+
+
+---
+
+
 ## 📜 **Descripción General**
 
 Sistema de Intranet Educativa es una aplicación multiplataforma desarrollada con React Native/Expo y backend PHP, orientada a la administración integral de una comunidad educativa.
