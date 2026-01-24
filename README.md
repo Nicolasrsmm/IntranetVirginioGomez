@@ -16,7 +16,7 @@ Está diseñada para instituciones educativas que necesitan una gestión central
 
 <img width="1898" height="645" alt="nuevo2" src="https://github.com/user-attachments/assets/3e807ec7-d003-4f21-bc2a-41bd14aa245d" />
 
-**Paso3:** Descaragr el video seleccionado.
+**Paso3:** Descargar el video seleccionado.
 
 <img width="1916" height="616" alt="nuevo" src="https://github.com/user-attachments/assets/e113acb9-b5c1-4f60-a611-6c44dd9d534a" />
 
